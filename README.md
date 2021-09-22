@@ -4,7 +4,7 @@ Meu nome é Alexsandro,
 
 Sou apaixonado por tecnologia.
 
-E busco "aquela" oportunidade na área de desenvolvimento de sistemas para 🚀.
+Na busca "daquela" oportunidade na área de desenvolvimento de sistemas para 🚀.
 Enquanto isso não ocorre, sigo estudando...
 
 ### "Se você não puder voar, então corra. Se não puder correr, então ande. Se não puder andar, então rasteje. Mas da maneira que for, continue se movendo."  Martin Luther King 🧠
