@@ -11,7 +11,7 @@ Enquanto isso não ocorre, sigo estudando...
 
 - 📍 Moro em São Paulo - SP
 - 💻 Por enquanto trabalho como técnico de informática na Prodesp.
-- (☞ﾟヮﾟ)☞ Cursando o 4º semestre do curso de análise e desenvolvimento de sistemas no Senac Santo Amaro
+- (☞ﾟヮﾟ)☞ Cursando o 5º semestre do curso de análise e desenvolvimento de sistemas no Senac Santo Amaro
 
 Mais sobre mim 👇🏼
 
