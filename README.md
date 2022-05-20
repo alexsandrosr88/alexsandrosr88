@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia.
 Na busca "daquela" oportunidade na área de desenvolvimento de sistemas para 🚀.
 Enquanto isso não ocorre, sigo estudando...
 
-### "Se você não puder voar, então corra. Se não puder correr, então ande. Se não puder andar, então rasteje. Mas da maneira que for, continue se movendo."  Martin Luther King 🧠
+### "Não há nada de nobre em ser superior ao seu semelhante. A verdadeira nobreza é ser superior ao seu antigo eu!" Hemingway 🧠
 
 - 📍 Moro em São Paulo - SP
 - 💻 Por enquanto trabalho como técnico de informática na Prodesp.
