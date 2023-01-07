@@ -1,8 +1,8 @@
-# Oi 👋
+# Olá 👋
 
 Meu nome é Alexsandro,
 
-Sou apaixonado por tecnologia.
+Possuo habilidades em lógica de programação na linguagem Java, POO, Spring Boot e MySQL.
 
 Na busca "daquela" oportunidade na área de desenvolvimento de sistemas para 🚀.
 Enquanto isso não ocorre, sigo estudando...
