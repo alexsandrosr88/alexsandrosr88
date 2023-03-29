@@ -9,9 +9,10 @@ Enquanto isso não ocorre, sigo estudando...
 
 ### "Não há nada de nobre em ser superior ao seu semelhante. A verdadeira nobreza é ser superior ao seu antigo eu." Hemingway 🧠
 
-- 📍 Moro em São Paulo - SP
+- 📍 Moro em São Paulo Capital - SP
 - 💻 Por enquanto trabalho como técnico de informática na Prodesp.
 - (☞ﾟヮﾟ)☞ Formado em análise e desenvolvimento de sistemas pelo Senac Santo Amaro
+- Cursando especialização em Java (Pós-graduação) na Universidade Tecnológica Federal do Paraná. 
 
 Mais sobre mim 👇🏼
 
