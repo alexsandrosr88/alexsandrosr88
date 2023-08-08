@@ -12,7 +12,7 @@ Enquanto isso não ocorre, sigo estudando...
 - 📍 Moro em São Paulo Capital - SP
 - 💻 Por enquanto trabalho como técnico de informática na Prodesp.
 - (☞ﾟヮﾟ)☞ Formado em análise e desenvolvimento de sistemas pelo Senac Santo Amaro
-- Cursando especialização em Java (Pós-graduação) na Universidade Tecnológica Federal do Paraná. 
+- Cursando pós-graduação em tecnologia Java na Universidade Tecnológica Federal do Paraná. 
 
 Mais sobre mim 👇🏼
 
