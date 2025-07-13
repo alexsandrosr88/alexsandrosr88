@@ -2,15 +2,12 @@
 
 Meu nome é Alexsandro,
 
-Possuo habilidades na linguagem Java, lógica de programação, POO, Spring Boot e MySQL.
-
-Na busca "daquela" oportunidade na área de desenvolvimento de sistemas para 🚀.
-Enquanto isso não ocorre, sigo estudando...
+Possuo habilidades na linguagem Java, lógica de programação, POO, Spring Boot, MySQL, Moodle, Wordpress, Apache, Nginx Kubernets, Openshift e Redes.
 
 ### "Não há nada de nobre em ser superior ao seu semelhante. A verdadeira nobreza é ser superior ao seu antigo eu." Hemingway 🧠
 
 - 📍 Moro em São Paulo Capital - SP
-- 💪🏽 Por enquanto trabalho como técnico de informática na Prodesp.
+- 💪🏽 Por enquanto trabalho como analista de middleware na Prodesp.
 - 🎓 Formado em análise e desenvolvimento de sistemas pelo Senac.
 - 📖 Cursando pós-graduação em tecnologia Java na Universidade Tecnológica Federal do Paraná. 
 
