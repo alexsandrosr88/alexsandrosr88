@@ -7,9 +7,10 @@ Possuo habilidades na linguagem Java, lógica de programação, POO, Spring Boot
 ### "Não há nada de nobre em ser superior ao seu semelhante. A verdadeira nobreza é ser superior ao seu antigo eu." Hemingway 🧠
 
 - 📍 Moro em São Paulo Capital - SP
-- 💪🏽 Por enquanto trabalho como analista de middleware na Prodesp.
+- 💪🏽 Atuo como analista de midleware na Prodesp.
 - 🎓 Formado em análise e desenvolvimento de sistemas pelo Senac.
-- 📖 Cursando pós-graduação em tecnologia Java na Universidade Tecnológica Federal do Paraná. 
+- 🎓 Pós-graduado em tecnologia Java pela Universidade Tecnológica Federal do Paraná.
+- 📖 Cursando pós-graduação em Redes de computadores na Universidade Tecnológica Federal do Paraná. 
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandrosr88&theme=vue&show_icons=true)
